@@ -10,19 +10,16 @@
 - **Current Focus:** C# and React
 - **Ask me about:** React, JavaScript
 - **Email:** amansehgal0800@gmail.com
+- **LinkedIn:** [Aman Sehgal](https://linkedin.com/in/aman-sehgal-65a86019b)
 - **Fun Fact:** I think I am funny
 
-### Connect with me:
+### Coding Profiles:
 <p align="left">
-  <a href="https://linkedin.com/in/aman-sehgal-65a86019b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    LinkedIn
-  </a>
   <a href="https://www.leetcode.com/amansehgal_14/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     LeetCode
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/sehgalaman901" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/sehgalaman901" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
     GeeksforGeeks
   </a>
@@ -30,13 +27,30 @@
 
 ### Languages and Tools:
 <p align="left">
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> React
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /> Redux
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> JavaScript
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> Node.js
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> Java
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> MySQL
-  <!-- Add more languages and tools here with proper spacing -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <div style="background-color: #f0db4f; color: #333; padding: 5px 10px; margin: 5px; border-radius: 5px;">
+      React
+    </div>
+    <div style="background-color: #f0db4f; color: #333; padding: 5px 10px; margin: 5px; border-radius: 5px;">
+      Redux
+    </div>
+    <div style="background-color: #f0db4f; color: #333; padding: 5px 10px; margin: 5px; border-radius: 5px;">
+      JavaScript
+    </div>
+    <div style="background-color: #f0db4f; color: #333; padding: 5px 10px; margin: 5px; border-radius: 5px;">
+      Node.js
+    </div>
+    <div style="background-color: #f0db4f; color: #333; padding: 5px 10px; margin: 5px; border-radius: 5px;">
+      Java
+    </div>
+    <div style="background-color: #f0db4f; color: #333; padding: 5px 10px; margin: 5px; border-radius: 5px;">
+      MySQL
+    </div>
+    <div style="background-color: #f0db4f; color: #333; padding: 5px 10px; margin: 5px; border-radius: 5px;">
+      HTML
+    </div>
+    <!-- Add more languages and tools here with proper spacing and colored boxes -->
+  </div>
 </p>
 
 ### GitHub Stats:
